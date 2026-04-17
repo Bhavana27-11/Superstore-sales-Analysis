@@ -38,11 +38,11 @@ This project focuses on analyzing retail sales data to uncover key business insi
 
 ### 🔹 Profit and Discount Analysis
 
-![Profit and Discount Analysis](Screenshots/Screenshots/Screenshot (67).png)
+![Profit and Discount Analysis](Screenshots/Screenshot (67).png)
 
 ### 🔹 Regional  Analysis
 
-![Regional Analysis](Screenshots/Screenshots/Screenshots (72).png)
+![Regional Analysis](Screenshots/Screenshots (72).png)
 
 ---
 
@@ -50,7 +50,7 @@ This project focuses on analyzing retail sales data to uncover key business insi
 
 Click below to download and explore the dashboard:
 
-🔗 [Download PBIX File](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+🔗 
 
 ---
 
