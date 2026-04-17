@@ -38,7 +38,7 @@ This project focuses on analyzing retail sales data to uncover key business insi
 
 ### 🔹 Profit and Discount Analysis
 
-![Profit and Discount Analysis]()
+![Profit and Discount Analysis](Screenshots/Profit and Discount Analysis.png)
 
 ### 🔹 Regional  Analysis
 
