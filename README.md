@@ -42,7 +42,7 @@ This project focuses on analyzing retail sales data to uncover key business insi
 
 ### 🔹 Regional  Analysis
 
-![Regional Analysis]()
+![Regional Analysis](Screenshots/Regional Analysis.png)
 
 ---
 
