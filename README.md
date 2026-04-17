@@ -1,12 +1,12 @@
-# 📊 Superstore Sales Analysis (Power BI Project)
+# Superstore Sales Analysis (Power BI Project)
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on analyzing retail sales data to uncover key business insights such as sales performance, profit trends, and regional analysis. The dashboard was built using Power BI to help stakeholders make data-driven decisions.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Analyze overall sales and profit performance
 * Identify top-performing products and categories
@@ -15,7 +15,7 @@ This project focuses on analyzing retail sales data to uncover key business insi
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 
 * Power BI
 * Microsoft Excel
@@ -24,14 +24,14 @@ This project focuses on analyzing retail sales data to uncover key business insi
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 * Superstore Sales Dataset
 * Includes data on orders, customers, regions, products, and sales
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 ### 🔹 Sales Overview
 ![Sales Overview](Screenshots/Screenshot (73).png)
@@ -46,7 +46,7 @@ This project focuses on analyzing retail sales data to uncover key business insi
 
 ---
 
-## 📥 Download Power BI File
+## Download Power BI File
 
 Click below to download and explore the dashboard:
 
@@ -54,7 +54,7 @@ Click below to download and explore the dashboard:
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 * Technology category generated the highest revenue
 * West region showed strong sales performance
@@ -63,7 +63,7 @@ Click below to download and explore the dashboard:
 
 ---
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 * Focus on high-profit categories like Technology
 * Reduce discounts in low-profit areas
@@ -72,7 +72,7 @@ Click below to download and explore the dashboard:
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Bhavana Vooka**
 Aspiring Data Analyst
