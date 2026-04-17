@@ -34,7 +34,7 @@ This project focuses on analyzing retail sales data to uncover key business insi
 ##  Dashboard Preview
 
 ### 🔹 Sales Overview
-![Sales Overview](Screenshots/Screenshot (73).png)
+![Sales Overview](Screenshots/)
 
 ### 🔹 Profit and Discount Analysis
 
